@@ -1,0 +1,14 @@
+traslacion_360734__cabled-mess__glassy-transition.wav:
+https://freesound.org/people/cabled_mess/sounds/360734/
+
+settings_403012__inspectorj__ui-confirmation-alert-a5.wav:
+https://freesound.org/people/InspectorJ/sounds/403012/
+
+details_242501__gabrielaraujo__powerup-success.wav:
+https://freesound.org/people/GabrielAraujo/sounds/242501/
+
+salidasettings_320549__debsound__pop-19.wav:
+https://freesound.org/people/debsound/sounds/320549/
+
+start_446142__justinvoke__race-start.wav:
+https://freesound.org/people/JustInvoke/sounds/446142/
