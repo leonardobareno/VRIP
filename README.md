@@ -8,7 +8,7 @@ Tomado conceptualmente a partir de <a href="https://github.com/culturevis/imagep
 * <a href="https://assetstore.unity.com/packages/tools/gui/ui-tools-for-unity-124299">UI Tools for Unity</a>
 
 ## Observaciones
-* Elaborado con Unity 2017.4.19f1, Android SDK API 23 (Marshmallow) dirigido hacia Samsung Gear VR (HMD y controlador).
+* Elaborado con Unity 2017.4.19, Android SDK API 23 (Marshmallow) dirigido hacia Samsung Gear VR (HMD y controlador).
 * Imágenes tomadas desde <a href="https://www.wga.hu/">Web Gallery of Art</a> (colecciones Master y Detail).
 * Revisar la BD ./src/Assets/StreamingAssets/wga_hu_bd.sqlite en caso de ser necesarias modificaciones a los campos de ruta y nombre de archivo (columna filename).
 * Modificar la cadena de path en ./src/Assets/LB/Scripts/constantes.cs:27 (IMAGES_PATH).
