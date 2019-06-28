@@ -9,7 +9,7 @@ Tomado conceptualmente a partir de <a href="https://github.com/culturevis/imagep
 
 ## Observaciones
 * Elaborado con Unity 2017.4.19, Android SDK API 23 (Marshmallow) dirigido hacia Samsung Gear VR (HMD y controlador).
-* Imágenes tomadas desde <a href="https://www.wga.hu/">Web Gallery of Art</a> (colecciones Master y Detail).
+* Imágenes tomadas de <a href="https://www.wga.hu/">Web Gallery of Art</a> (colecciones Master y Detail).
 * Revisar la BD ./src/Assets/StreamingAssets/wga_hu_bd.sqlite en caso de ser necesarias modificaciones a los campos de ruta y nombre de archivo (columna filename).
 * Modificar la cadena de path en ./src/Assets/LB/Scripts/constantes.cs:27 (IMAGES_PATH).
 * <a href="https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-submission-sig-file/">Generar el archivo de firma osig</a> y colocarlo en el directorio ./src/Assets/Plugins/Android/assets
