@@ -13,3 +13,6 @@ Tomado conceptualmente a partir de <a href="https://github.com/culturevis/imagep
 * Revisar la BD ./src/Assets/StreamingAssets/wga_hu_bd.sqlite en caso de ser necesarias modificaciones a los campos de ruta y nombre de archivo (columna filename).
 * Modificar la cadena de path en ./src/Assets/LB/Scripts/constantes.cs:27 (IMAGES_PATH).
 * <a href="https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-submission-sig-file/">Generar el archivo de firma osig</a> y colocarlo en el directorio ./src/Assets/Plugins/Android/assets
+
+## Descripción
+<a href="doc/VRIP_Paper_ext.pdf">Paper</a>
