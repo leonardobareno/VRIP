@@ -15,4 +15,4 @@ Tomado conceptualmente a partir de <a href="https://github.com/culturevis/imagep
 * <a href="https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-submission-sig-file/">Generar el archivo de firma osig</a> y colocarlo en el directorio ./src/Assets/Plugins/Android/assets
 
 ## Descripción
-<a href="doc/VRIP_Paper_ext.pdf">Paper</a>
+<a href="raw/master/doc/VRIP_Paper_ext.pdf">Paper</a>
